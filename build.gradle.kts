@@ -1,6 +1,6 @@
 plugins {
     kotlin("jvm") version "1.9.24"
-    id("org.jetbrains.kotlinx.kover") version "0.7.6"
+    id("org.jetbrains.kotlinx.kover") version "0.8.0"
 }
 
 group = "org.example.e3fxgaming"
